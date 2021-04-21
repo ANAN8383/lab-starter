@@ -1,6 +1,6 @@
-title: # a name for your Learning Lab course
-tagline: # a short description for your Learning Lab course, displayed on the course catalog
-description: # a longer description for your Learning Lab course, displayed on the course's landing page
+title: Learn Pull Request # a name for your Learning Lab course
+tagline: How to do pull request in github # a short description for your Learning Lab course, displayed on the course catalog
+description: Here's the course for learning how to do pull requests in GitHub Learning Lab 
 
 # Repository setup
 # The following section template information for the repository
